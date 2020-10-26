@@ -3,8 +3,6 @@
  * writer of methods: yelderiny
  */
 
-
-
 import java.util.Random;
 import java.util.Scanner;
 
